@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "TXT (TOMORROW X TOGETHER)",
+	"description": "TOMORROW X TOGETHER (Hangul: 투모로우바이투게더; read as Tomorrow by Together; commonly known as TXT) is a five-member boy group under Big Hit Music. They are a bright and youthful boyband aiming to become the next global breakthrough artist. They debuted on March 4, 2019 with their first mini album The Dream Chapter: STAR. The band consists of Soobin, Yeonjun, Beomgyu, Taehyun and Huening Kai. Their fandom name is called MOA (모아) which stands for \"Moments of Alwaysness\". In Korean, MOA means to \"gather/collect\". ",
+	"links": {
+		"website": [
+			"https://ibighit.com/txt/eng/profile/",
+			"https://txt.fandom.com/wiki/TOMORROW_X_TOGETHER"
+		],
+		"subreddit": [
+			"TomorrowByTogether"
+		],
+		"discord": [
+			"moa",
+			"tomorrowbytogether"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				376,
+				-831
+			],
+			[
+				392,
+				-831
+			],
+			[
+				392,
+				-825
+			],
+			[
+				376,
+				-825
+			]
+		]
+	},
+	"center": {
+		"254": [
+			384,
+			-828
+		]
+	}
+}
